@@ -13,6 +13,7 @@
 		80198B32284780D2004494AB /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80198B31284780D2004494AB /* FruitNutrientsView.swift */; };
 		80198B3428478A83004494AB /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80198B3328478A83004494AB /* SettingsView.swift */; };
 		80198B36284793D2004494AB /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80198B35284793D2004494AB /* SettingsLabelView.swift */; };
+		80198B38284799CA004494AB /* SettingsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80198B37284799CA004494AB /* SettingsRowView.swift */; };
 		80AD79AD284627AB0071C118 /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80AD79AC284627AB0071C118 /* FruitCardView.swift */; };
 		80AD79AF28462D030071C118 /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80AD79AE28462D030071C118 /* StartButtonView.swift */; };
 		80AD79B1284633110071C118 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80AD79B0284633110071C118 /* OnboardingView.swift */; };
@@ -52,6 +53,7 @@
 		80198B31284780D2004494AB /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
 		80198B3328478A83004494AB /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		80198B35284793D2004494AB /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
+		80198B37284799CA004494AB /* SettingsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsRowView.swift; sourceTree = "<group>"; };
 		80AD79AC284627AB0071C118 /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
 		80AD79AE28462D030071C118 /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 		80AD79B0284633110071C118 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 				80198B2C28476CA9004494AB /* FruitHeaderView.swift */,
 				80198B2F284770B0004494AB /* SourceLinkView.swift */,
 				80198B35284793D2004494AB /* SettingsLabelView.swift */,
+				80198B37284799CA004494AB /* SettingsRowView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -327,6 +330,7 @@
 			files = (
 				80AD79B728464DD00071C118 /* FruitData.swift in Sources */,
 				80198B30284770B0004494AB /* SourceLinkView.swift in Sources */,
+				80198B38284799CA004494AB /* SettingsRowView.swift in Sources */,
 				80AD79AD284627AB0071C118 /* FruitCardView.swift in Sources */,
 				80AD79B9284660970071C118 /* FruitRowView.swift in Sources */,
 				80198B32284780D2004494AB /* FruitNutrientsView.swift in Sources */,
