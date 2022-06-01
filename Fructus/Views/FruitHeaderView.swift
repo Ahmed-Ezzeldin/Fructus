@@ -24,7 +24,7 @@ struct FruitHeaderView: View {
         }
         .frame(height: 440)
         .onAppear(){
-            withAnimation(.easeOut(duration: 0.5)){
+            withAnimation(.easeOut(duration: 0.7)){
                 isAnimatingImage = true
             }
         }
