@@ -31,6 +31,7 @@ struct FruitRowView: View {
                 
             }
         }
+//        .padding(.horizontal, 0)
     }
 }
 
